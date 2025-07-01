@@ -27,14 +27,10 @@
 
 @media screen and (min-width: 1024px) {
     .manchete__imagem {
-        width: 50%;
-    }
-
-    .manchete__titulo {
-        font-size: 1.25rem;
+        width: 40%;
     }
 
     .manchete__texto {
-        width: 50%;
+        width: 40%;
     }
 }

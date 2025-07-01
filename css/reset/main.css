@@ -18,11 +18,13 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: #535353c0;
+        background-image: url(../../assets/jornal.jpg);
+        background-repeat: repeat-y;
+        background-size: contain;
     }
 
     main {
-        width: 50%;
+        width: 80%;
         background-color: white;
     }
 }
