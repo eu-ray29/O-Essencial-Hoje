@@ -15,11 +15,11 @@
 .emAlta__conteudo {
     display: flex;
     flex-direction: column;
-    row-gap: .5rem;
+    row-gap: .2rem;
 }
 
 .emAlta__titulo {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     font-weight: 500;
     color: var(--cinza-secundario);
     line-height: 1.25rem;
@@ -27,7 +27,7 @@
 }
 
 .emAlta__texto {
-    font-size: 1.125rem;
+    font-size: 1rem;
     color: var(--cinza-secundario);
     line-height: 1.25rem;
 }

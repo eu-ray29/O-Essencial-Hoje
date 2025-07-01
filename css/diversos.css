@@ -9,6 +9,7 @@
     display: flex;
     flex-direction: column;
     column-gap: 1.25rem;
+    row-gap: .7rem;
     border-right: 1px solid var(--cinza-escuro);
     padding: 0 1rem 0 0;
 }
