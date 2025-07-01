@@ -1,0 +1,15 @@
+:root {
+    --vermelho: #EF7B7B;
+    --cinza-escuro: #636363;
+    --cinza-secundario: #535353;
+
+    --font-titulo: "Pirata One", system-ui;
+    --font-texto: "EB Garamond", serif;
+    --font-divisor: "UnifrakturCook", cursive;
+}
+
+body {
+    font-family: var(--font-texto);
+    width: 100%;
+}
+
