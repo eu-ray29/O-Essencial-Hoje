@@ -36,5 +36,11 @@
     .emAlta {
         align-items: center;
     }
+
+    .container__desk {
+        display: flex;
+        gap: 3rem;
+        justify-content: center;
+    }
 }
 
