@@ -32,3 +32,9 @@
     line-height: 1.25rem;
 }
 
+@media screen and (min-width: 1024px) {
+    .emAlta {
+        align-items: center;
+    }
+}
+

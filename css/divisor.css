@@ -49,3 +49,40 @@
     width: 44%;
     margin-right: 1rem;
 }
+
+@media screen and (min-width: 600px) {
+    .divisor_rigth {
+        width: 50%;
+    }
+
+    .divisor_rigth2 {
+        width: 60%;
+    }
+    .divisor_rigth3 {
+        width: 64%;
+    }
+    .divisor_rigth4 {
+        width: 58%;
+    }
+    .divisor_rigth5 {
+        width: 63%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .divisor_rigth {
+        width: 65%;
+    }
+    .divisor_rigth2 {
+        width: 72%;
+    }
+    .divisor_rigth3 {
+        width: 74%;
+    }
+    .divisor_rigth4 {
+        width: 70%;
+    }
+    .divisor_rigth5 {
+        width: 74%;
+    }
+}

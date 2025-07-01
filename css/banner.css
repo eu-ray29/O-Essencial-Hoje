@@ -10,3 +10,14 @@
     width: 100%;
 }
 
+@media screen and (min-width: 600px) {
+    .imagem__banner {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .imagem__banner {
+        width: 50%;
+    }
+}
