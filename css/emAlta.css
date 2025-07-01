@@ -32,6 +32,12 @@
     line-height: 1.25rem;
 }
 
+@media screen and (min-width: 768px) {
+    .emAlta {
+        align-items: center;
+    }
+}
+
 @media screen and (min-width: 1024px) {
     .emAlta {
         align-items: center;
