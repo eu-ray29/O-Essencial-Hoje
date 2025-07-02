@@ -1,7 +1,7 @@
 .emAlta {
     display: flex;
     flex-direction: column;
-    padding: 1.5rem 1rem 4rem 1rem;
+    padding: 1.5rem 1rem 3.75rem 1rem;
     gap: 1.875rem;
 }
 
@@ -19,8 +19,8 @@
 }
 
 .emAlta__titulo {
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 1.25rem;
+    font-weight: 600;
     color: var(--cinza-secundario);
     line-height: 1.25rem;
     

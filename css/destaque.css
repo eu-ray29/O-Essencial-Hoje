@@ -1,8 +1,10 @@
 .destaques {
     display: flex;
     overflow-x: scroll;
-    gap: 1rem;
-    padding: 1.5rem 0rem 4rem 1rem;
+    gap: 1.5rem;
+    padding: 1.5rem 0rem 3.75rem 1rem;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;
 }
 
 .destaque {
@@ -10,13 +12,13 @@
     flex-direction: column;
     gap: 1rem;
     border-right: 1px solid var(--cinza-escuro);
-    padding: 0 1rem 0 0;
+    padding: 0 1.5rem 0 0;
 }
 
 .destaque__titulo {
     font-size: 1.5rem;
     line-height: 1.5rem;
-    font-weight: 500;
+    font-weight: 600;
     color: var(--cinza-secundario);
 }
 
@@ -24,5 +26,4 @@
     font-size: 1.125rem;
     line-height: 1.125rem;
     color: var(--cinza-secundario);
-
 }
